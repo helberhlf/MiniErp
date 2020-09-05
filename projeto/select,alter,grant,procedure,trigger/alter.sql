@@ -21,6 +21,6 @@ select * from municipio;
 
 select  m.id, m.nome as cidade,e.nome as estado from municipio m join estado e
 on e.id = m.id_estado
-where e.nome = 'Rio de janeiro';
+where e.nome = 'Distrito Federal';
 
 
