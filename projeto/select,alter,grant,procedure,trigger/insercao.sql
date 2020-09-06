@@ -323,6 +323,8 @@ INSERT INTO status_venda(id,ds_status) VALUES
 
 -- insert a forma de pagamento
 insert into forma_pagamento(id,ds_forma_pag) values
-(1,'boleto'),
-(2,'cartao debito'),
-(3,'cartao credito');
+-- (1,'boleto'),
+-- (2,'cartao debito'),
+-- (3,'cartao credito'),
+(4,'Debito Automatico'),
+(5,'Transferencia bancaria');
