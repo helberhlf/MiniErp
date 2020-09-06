@@ -292,6 +292,8 @@ insert into fabricante values
 (4,'Razer','https://www.razer.com'),
 (5,'Corsair','https://www.corsair.com/br/pt/'),
 (6,'Seagate Technology','https://www.seagate.com/br/pt/');
+(7,'Micro-Star International','https://www.msi.com/landing/appplayer');
+(8,'gigabyte','https://www.gigabyte.com/');
 
 -- INSERT CATEGORIA
 INSERT INTO `tipo` (`id`, `nome`) VALUES
