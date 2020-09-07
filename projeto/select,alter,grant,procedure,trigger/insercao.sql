@@ -291,11 +291,13 @@ insert into fabricante values
 (3,'Nvidia Corporation','https://www.nvidia.com.br/Download/index.aspx?lang=br'),
 (4,'Razer','https://www.razer.com'),
 (5,'Corsair','https://www.corsair.com/br/pt/'),
-(6,'Seagate Technology','https://www.seagate.com/br/pt/');
-(7,'Micro-Star International','https://www.msi.com/landing/appplayer');
-(8,'gigabyte','https://www.gigabyte.com/');
-(9,'Alienware','https://www.dell.com/pt-br/gaming/alienware');
-(10,'Acer','Acer Brasilwww.acer.com ');
+(6,'Seagate Technology','https://www.seagate.com/br/pt/'),
+(7,'Micro-Star International','https://www.msi.com/landing/appplayer'),
+(8,'gigabyte','https://www.gigabyte.com/'),
+(9,'Alienware','https://www.dell.com/pt-br/gaming/alienware'),
+(10,'Acer','Acer Brasilwww.acer.com '),
+(11,'Asus','www.asus.com'),
+(12,'apple','www.apple.com');
 
 -- INSERT CATEGORIA
 INSERT INTO `tipo` (`id`, `nome`) VALUES
