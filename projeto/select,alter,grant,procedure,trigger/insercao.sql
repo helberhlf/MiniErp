@@ -294,6 +294,8 @@ insert into fabricante values
 (6,'Seagate Technology','https://www.seagate.com/br/pt/');
 (7,'Micro-Star International','https://www.msi.com/landing/appplayer');
 (8,'gigabyte','https://www.gigabyte.com/');
+(9,'Alienware','https://www.dell.com/pt-br/gaming/alienware');
+(10,'Acer','Acer Brasilwww.acer.com ');
 
 -- INSERT CATEGORIA
 INSERT INTO `tipo` (`id`, `nome`) VALUES
